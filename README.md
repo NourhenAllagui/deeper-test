@@ -1,4 +1,6 @@
-# deeper-test
+# Frontend for User Management System
+
+This is the frontend part of a simple CRUD application for managing users. It is built using **Vue.js** and **Vuetify** to create an intuitive and user-friendly interface.
 
 ## Project setup
 ```
